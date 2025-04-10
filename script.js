@@ -4,4 +4,4 @@ var nomes = ["Alice", "Raquel", "Pedro", "Gabriela", "Priscila","Kali", "Rafael"
  "Fernanda", "Claudia", "Gustavo", "Laura", "Nicoly", "André", "Mauricio", "Bruno", "Vitor", "Guilherme", "Camila", "Elvis","Eduardo", "Monica"]
 var nomeescolhido = parseInt(prompt("Digite um número de 0 a 30"))
 
-document.write ("Nome escolhido:" +     nomes[nomeescolhido])
+document.write ("Nome escolhido: " +     nomes[nomeescolhido])
